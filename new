@@ -1,0 +1,3 @@
+#!/bin/bash
+cargo new day$1
+./download $1
